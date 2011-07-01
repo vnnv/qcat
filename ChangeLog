@@ -1,0 +1,14 @@
+
+29.04.2011
+* Fix crash when Search Dialog is used
+* when objects are deleted is used macro that check if the object is not NULL
+* Add new logger class to handle logging. 
+* Fix some crashes.
+
+28.04.2011
+* Add this ChangeLog file
+* Remove generated files - Makefile, qrc_*. Thanks Mikhail Y. Zvyozdochkin
+* Fix - x86-64 incorrect typecast. Thanks - Mikhail Y. Zvyozdochkin
+
+27.04.2011
+* Initial import in SVN - ver 0.5.1
